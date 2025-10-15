@@ -1,0 +1,77 @@
+{
+  "id": "user_1755425465764_zy642hvji",
+  "timestamp": "2025-08-17T10:11:05.764Z",
+  "personalInfo": {
+    "firstName": "Daniel",
+    "lastName": "Daniel",
+    "birthday": "",
+    "zkProof": ""
+  },
+  "gender": {
+    "selection": "man"
+  },
+  "location": {
+    "street": "St. Erth",
+    "city": "St Erth",
+    "country": "United Kingdom",
+    "fullAddress": "St. Erth, St Erth, Cornwall, England, United Kingdom",
+    "latitude": 50.157744,
+    "longitude": -5.4147834,
+    "searchRadius": 10
+  },
+  "sexuality": {
+    "selection": "lesbian",
+    "customSexuality": ""
+  },
+  "personalInterests": [],
+  "partnerPreferences": [
+    {
+      "category": "Lifestyle",
+      "question": "How would you describe your lifestyle?",
+      "options": [
+        "🏠 Homebody (NYC)",
+        "🌍 Digital Nomad (Homeless)"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "🏠 Homebody (NYC)"
+    },
+    {
+      "category": "Blockchain",
+      "question": "What is your blockchain preference?",
+      "options": [
+        "EVM Compatible L1 Maxi",
+        "ETH L2"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "EVM Compatible L1 Maxi"
+    },
+    {
+      "category": "Investment",
+      "question": "What describes your investment style?",
+      "options": [
+        "💎 ETH (steady & loyal)",
+        "🚀 Alts (fun & whimsical)"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "💎 ETH (steady & loyal)"
+    },
+    {
+      "category": "Community",
+      "question": "Which community do you identify with?",
+      "options": [
+        "The Hodlers 🟧",
+        "The Builders 🛠️",
+        "The Vibers 🐸"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "The Hodlers 🟧"
+    }
+  ],
+  "photos": [
+    {
+      "uploadedAt": "2025-08-17T10:11:05.764Z"
+    }
+  ],
+  "completedAt": "2025-08-17T10:11:05.764Z",
+  "version": "2.0"
+}

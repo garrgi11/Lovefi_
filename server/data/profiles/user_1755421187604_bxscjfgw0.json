@@ -1,0 +1,81 @@
+{
+  "id": "user_1755421187604_bxscjfgw0",
+  "timestamp": "2025-08-17T08:59:47.604Z",
+  "wallet": {
+    "name": "MetaMask",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjguNSAxNkMxOS4xNjcgMjAuNzUgMTYgMjQgMTYgMjRzLTMuMTY3LTMuMjUtMTIuNS04QzYuNSAxOS43NSA5LjY2NyAyMyAzLjUgMjcuNSA5LjY2NyAyNy41IDEyIDI0IDE2IDI0IDIwIDI0IDI0IDI3LjUgMjguNSAyNy41IDIyLjMzMyAyMyAyNS41IDE5Ljc1IDI4LjUgMTZ6IiBmaWxsPSIjRjY4NTFCIi8+PC9zdmc+",
+    "type": "metamask"
+  },
+  "personalInfo": {
+    "firstName": "Daniel",
+    "lastName": "Daniel",
+    "birthday": "2025-08-22",
+    "zkProof": ""
+  },
+  "gender": {
+    "selection": "woman"
+  },
+  "location": {
+    "street": "2801 Ellerslie Avenue",
+    "city": "Burnaby",
+    "country": "CA",
+    "fullAddress": "Burnaby, Metro Vancouver Regional District, British Columbia, Canada",
+    "latitude": 49.2433804,
+    "longitude": -122.972545,
+    "searchRadius": 10
+  },
+  "sexuality": {
+    "selection": "straight",
+    "customSexuality": ""
+  },
+  "personalInterests": [
+    "music",
+    "art"
+  ],
+  "partnerPreferences": [
+    {
+      "category": "Lifestyle",
+      "question": "How would you describe your lifestyle?",
+      "options": [
+        "🏠 Homebody (NYC)",
+        "🌍 Digital Nomad (Homeless)"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "🏠 Homebody (NYC)"
+    },
+    {
+      "category": "Blockchain",
+      "question": "What is your blockchain preference?",
+      "options": [
+        "EVM Compatible L1 Maxi",
+        "ETH L2"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "EVM Compatible L1 Maxi"
+    },
+    {
+      "category": "Investment",
+      "question": "What describes your investment style?",
+      "options": [
+        "💎 ETH (steady & loyal)",
+        "🚀 Alts (fun & whimsical)"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "💎 ETH (steady & loyal)"
+    },
+    {
+      "category": "Community",
+      "question": "Which community do you identify with?",
+      "options": [
+        "The Hodlers 🟧",
+        "The Builders 🛠️",
+        "The Vibers 🐸"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "The Hodlers 🟧"
+    }
+  ],
+  "photos": [],
+  "completedAt": "2025-08-17T08:59:47.604Z",
+  "version": "2.0"
+}

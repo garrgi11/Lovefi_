@@ -1,0 +1,44 @@
+{
+  "name": "dating-match-agent-testing",
+  "version": "1.0.0",
+  "description": "TypeScript testing suite for the Dating Match Agent",
+  "main": "testing-dating-match-agent.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dating-match-test.js --test",
+    "test:profiles": "node dating-match-test.js --profiles",
+    "test:help": "node dating-match-test.js --help",
+    "test:ts": "ts-node dating-match-test.ts --test",
+    "test:agent": "ts-node testing-dating-match-agent.ts --run-tests",
+    "test:agent-direct": "ts-node testing-dating-match-agent.ts --direct-tests",
+    "build:test": "tsc && node dist/dating-match-test.js --test",
+    "dev": "node dating-match-test.js",
+    "dev:ts": "ts-node dating-match-test.ts",
+    "dev:agent": "ts-node testing-dating-match-agent.ts",
+    "client": "ts-node dating-agent-client.ts",
+    "client:js": "node dating-agent-client.js"
+  },
+  "keywords": [
+    "dating",
+    "matching",
+    "agent",
+    "uagents",
+    "typescript",
+    "testing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/node-fetch": "^2.6.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "uagents": "^0.10.0",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
