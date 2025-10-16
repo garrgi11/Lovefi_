@@ -1,2 +1,3 @@
 Commit 1: initial project setup - 2025-10-15 14:00
 Commit 2: added README and basic structure - 2025-10-15 16:00
+Commit 3: configured environment variables - 2025-10-16 15:00
