@@ -9,3 +9,4 @@ Commit 8: added user profile and dashboard layout - 2025-10-18 11:00
 Commit 9: improved UI responsiveness - 2025-10-19 11:00
 Commit 10: added on-chain interaction module - 2025-10-19 19:00
 Commit 11: refactored contract ABI handling - 2025-10-20 19:00
+Commit 12: added error handling for transactions - 2025-10-20 09:00
