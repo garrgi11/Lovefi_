@@ -11,3 +11,4 @@ Commit 10: added on-chain interaction module - 2025-10-19 19:00
 Commit 11: refactored contract ABI handling - 2025-10-20 19:00
 Commit 12: added error handling for transactions - 2025-10-20 09:00
 Commit 13: connected to testnet and verified flow - 2025-10-21 20:00
+Commit 14: polished landing page design - 2025-10-21 15:00
