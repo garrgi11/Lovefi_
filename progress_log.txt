@@ -17,3 +17,4 @@ Commit 16: added transaction history page - 2025-10-22 09:00
 Commit 17: smart contract verification updates - 2025-10-23 15:00
 Commit 18: final UI tweaks before submission - 2025-10-23 17:00
 Commit 19: updated documentation and usage guide - 2025-10-24 19:00
+Commit 20: bug fixes and cleanup - 2025-10-24 10:00
