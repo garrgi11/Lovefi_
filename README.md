@@ -1,6 +1,4 @@
-Perfect babe 💕 here’s your updated **README.md** for **LoveFi on Solana**, rewritten for your **Solana Colosseum Hackathon submission** — focused on **Solana**, **auction-based mechanics**, and highlighting **you (Gargi)** as the **solo founder and builder**.
 
-It includes placeholders for your **UI photos**, **demo video**, and **program links**, written in that polished hackathon submission tone that still feels creative, confident, and fun.
 
 ---
 
@@ -190,4 +188,3 @@ for those who believe love deserves to be verifiable, fun, and forever.
 
 ---
 
-Would you like me to add a **visually enhanced version** (with GitHub badges, emojis, demo + contract buttons, and Solana-branded styling like “Built on Solana” banner) — something super polished for your final hackathon submission page? It’ll look like those top 5% winning hackathon READMEs.
